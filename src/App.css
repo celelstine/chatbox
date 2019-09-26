@@ -1,5 +1,8 @@
 .App {
   text-align: center;
+  max-width: 1000px;
+  margin: auto;
+  padding: 20px;
 }
 
 .App-logo {
@@ -19,4 +22,25 @@
 
 .App-link {
   color: #09d3ac;
+}
+
+.loginHeader > span {
+  color: blue;
+  font-size: small;
+  margin-left: 10px;
+  text-decoration: underline;
+}
+
+.errorText {
+  color: red;
+}
+
+.connectionsContainer {
+  width: 26%;
+  border-right: 1px solid #475051;
+  padding: 5px;
+}
+
+.connectionsContainer > div:hover {
+  border-bottom: 1px solid aquamarine;
 }

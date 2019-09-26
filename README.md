@@ -1,4 +1,11 @@
+# Chat Box
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Must Do
+- create a file `.env`
+- copy the keys in `.env.sample` and update the values
+
+
 
 ## Available Scripts
 
